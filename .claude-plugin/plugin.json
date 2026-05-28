@@ -4,7 +4,7 @@
   "description": "Audit a live Kubernetes cluster against CIS Benchmark and NSA/CISA hardening guidance, then generate and (with explicit confirmation) apply remediation manifests.",
   "author": {
     "name": "Ashok",
-    "email": "shankarappapooja@gmail.com"
+    "email": "ashok.kammala@gmail.com"
   },
   "license": "MIT",
   "keywords": ["kubernetes", "k8s", "security", "hardening", "cis", "nsa", "cisa", "audit"],
