@@ -1,0 +1,12 @@
+{
+  "name": "k8s-hardening",
+  "version": "0.1.0",
+  "description": "Audit a live Kubernetes cluster against CIS Benchmark and NSA/CISA hardening guidance, then generate and (with explicit confirmation) apply remediation manifests.",
+  "author": {
+    "name": "Ashok",
+    "email": "shankarappapooja@gmail.com"
+  },
+  "license": "MIT",
+  "keywords": ["kubernetes", "k8s", "security", "hardening", "cis", "nsa", "cisa", "audit"],
+  "homepage": "https://github.com/<your-org>/k8s-hardening-plugin"
+}
