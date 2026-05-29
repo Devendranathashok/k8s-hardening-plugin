@@ -8,5 +8,5 @@
   },
   "license": "MIT",
   "keywords": ["kubernetes", "k8s", "security", "hardening", "cis", "nsa", "cisa", "audit"],
-  "homepage": "https://github.com/<your-org>/k8s-hardening-plugin"
+  "homepage": "https://github.com/Devendranathashok/k8s-hardening-plugin"
 }
