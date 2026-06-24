@@ -15,7 +15,7 @@ The skill is high-blast-radius. It runs against the cluster pointed to by `kubec
 
 ```bash
 # Add this repo as a marketplace, then install the plugin
-/plugin marketplace add https://github.com/<your-org>/k8s-hardening-plugin
+/plugin marketplace add https://github.com/Devendranathashok//k8s-hardening-plugin
 /plugin install k8s-hardening
 ```
 
